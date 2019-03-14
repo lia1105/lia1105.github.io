@@ -1,3 +1,6 @@
+---
+title: You've been pwned!
+---
 
 ## Welcome to GitHub Pages
 
