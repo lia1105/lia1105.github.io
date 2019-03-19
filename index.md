@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>lia's space</title>
-  </head>
-<body>
-  <p>
+  
+  <body style = "backgroung-color:LavenderBlush">
+ 
+<head>
+  
   <center>
     <h1> <font color="SandyBrown" size= 4><h1>
       lia's space
